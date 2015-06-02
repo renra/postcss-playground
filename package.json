@@ -1,0 +1,9 @@
+{
+  "name": "postcss-playground",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.8"
+  }
+}
